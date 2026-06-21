@@ -47,40 +47,24 @@ The knowledge base must contain only one canonical occurrence of each entry.
 
 ## Examples
 
-
-
 Phrasal Verb → Phrasal_Verbs.md
-
-
 
 Regular Verb → Regular_Verbs.md
 
-
-
 Irregular Verb → Irregular_Verbs.md
-
-
 
 Idiom → Idioms.md
 
-
-
 Grammatical Connector, Transition Phrase, Linking Word → Grammatical_Connectors_and_Phrases.md
-
-
 
 Technical Term (Cloud, DevOps, AI, ML, Cybersecurity, Networking, Linux, Databases) → Technical_Term.md
 
-
-
 Office Vocabulary, Workplace Expression, Business Communication → Office.md
 
-
-
 Traffic, Transportation, Driving, Road Expressions → Traffic_City.md
-
-
 
 Uncategorized, Generic Vocabulary, Daily Expressions → Miscellaneous.md
 
 Legal, Contract, Compliance, Regulatory, Privacy, or Policy Terms → Legal_Terms.md
+
+Emotional, psychology or feeling word and expressions  → Feelings_and_Emotions.md
