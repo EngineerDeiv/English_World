@@ -1,4 +1,3 @@
-# Irregular Verbs
 
 |Verb|Past Simple|Past Participle|Meaning (Spanish)|Example|
 |---|---|---|---|---|

@@ -1,4 +1,3 @@
-# Miscellaneous Vocabulary
 
 | Term | Meaning (Spanish) | Notes |
 |---|---|---|
