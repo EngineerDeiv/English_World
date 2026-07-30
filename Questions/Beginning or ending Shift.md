@@ -1,4 +1,11 @@
 
+|Spanish|Natural English|
+|---|---|
+|¿Cómo ha estado tu turno?|How has your shift been?|
+|¿Cómo te ha ido hoy?|How has your day been?|
+|¿Cómo va tu turno?|How's your shift going?|
+|¿Cómo estuvo tu turno? (finished)|How was your shift?|
+
 | Questions                                                | Meaning in Spanish |
 | -------------------------------------------------------- | ------------------ |
 | How's your shift going?                                  |                    |

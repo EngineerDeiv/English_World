@@ -12,5 +12,5 @@ All entries from the previous `Unknow_Words.md` have been processed and moved to
 | pop up                  | emergente/emergente                   |         |               |
 | with boost speeds up to | con aumentos de velocidad de hasta... |         |               |
 | Tiny                    | pequeño/diminuto                      |         |               |
-|                         |                                       |         |               |
+| unemployed              |                                       |         |               |
 |                         |                                       |         |               |
