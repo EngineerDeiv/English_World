@@ -23,17 +23,17 @@
 | tarea fácil de obtener                                                   | low-hanging fruit                                                                    |
 | ponerse en contacto                                                      | touch base                                                                           |
 | lo antes posible                                                         | ASAP                                                                                 |
-| para ser honesto                                                         | TBH                                                                                 |
-| para tu información                                                      | FYI                                                                                 |
-| en mi opinión                                                            | IMO                                                                                 |
-| en mi humilde opinión                                                    | IMHO                                                                                |
-| si recuerdo correctamente                                                | IIRC                                                                                |
-| también conocido como                                                    | AKA                                                                                 |
-| por anunciar                                                             | TBA                                                                                 |
-| por definir                                                              | TBD                                                                                 |
-| fuera de la oficina                                                      | OOO                                                                                 |
-| fin del día                                                              | EOD                                                                                 |
-| cierre de negocio                                                        | COB                                                                                 |
-| tiempo estimado de llegada                                               | ETA                                                                                 |
-| no es gran cosa                                                          | no big deal                                                                         |
-| fue culpa mía                                                            | my bad                                                                              |
+| para ser honesto                                                         | TBH                                                                                  |
+| para tu información                                                      | FYI                                                                                  |
+| en mi opinión                                                            | IMO                                                                                  |
+| en mi humilde opinión                                                    | IMHO                                                                                 |
+| si recuerdo correctamente                                                | IIRC                                                                                 |
+| también conocido como                                                    | AKA                                                                                  |
+| por anunciar                                                             | TBA                                                                                  |
+| por definir                                                              | TBD                                                                                  |
+| fuera de la oficina                                                      | OOO                                                                                  |
+| fin del día                                                              | EOD                                                                                  |
+| cierre de negocio                                                        | COB                                                                                  |
+| tiempo estimado de llegada                                               | ETA                                                                                  |
+| no es gran cosa                                                          | no big deal                                                                          |
+| fue culpa mía                                                            | my bad                                                                               |

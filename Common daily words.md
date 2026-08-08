@@ -1,5 +1,6 @@
 
 
+
 | Word                                                          | Meaning                       |     |     |
 | ------------------------------------------------------------- | ----------------------------- | --- | --- |
 | I didn’t have that in my repertoire/<br>That wasn’t on my rad | no tenia eso en mi repertorio |     |     |
@@ -10,3 +11,10 @@
 | Word                                                                                                                                                                                           | BATCH WORK |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | Hey guys, my shift is ending, but I’m adding a new person who’s going to cover me for the next shift. He's/She’s going to take over here for Batch. If you need anything, she’s ready to help. |            |
+
+| Word                                                          | Meaning                                                                                                                                                                                                                          |     |     |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| I didn’t have that in my repertoire/<br>That wasn’t on my rad | no tenia eso en mi repertorio                                                                                                                                                                                                    |     |     |
+| Please stay on this cell/<br>Let’s not jump to another col    | quedate quieto aqui                                                                                                                                                                                                              |     |     |
+| Hang tight right t                                            | stay right where you are     Hey guys, my shift is ending, but I’m adding a new person who’s going to cover me for the next shift. He's/She’s going to take over here for Batch. If you need anything, she’s ready to help. tch. |     |     |
+

@@ -35,13 +35,13 @@
 | scan        | scanned      | scanned         | escanear                      | We scanned the system for vulnerabilities.                            |
 | secure      | secured      | secured         | asegurar, proteger            | We secured the endpoint with updated policies.                        |
 | coordinate  | coordinated  | coordinated     | coordinar                     | I coordinated with the DevOps team to deploy the fix.                 |
-| polish      | polished      | polished        | pulir                         | I polished the documentation before publishing.                       |
-| water       | watered       | watered         | regar                         | I watered the plants in the office.                                   |
-| organize    | organized     | organized       | organizar                     | She organized the invoices for the accounting team.                   |
-| declutter   | decluttered   | decluttered     | deshacerse del desorden       | They decluttered the storage room last weekend.                       |
-| replace     | replaced      | replaced        | reemplazar, cambiar           | We replaced the faulty light bulbs in the server room.                |
-| retreat     | retreated     | retreated       | retirarse, alejarse           | The team retreated from the risky change.                             |
-| regress     | regressed     | regressed       | retroceder (desarrollo)       | The system regressed after the last patch.                            |
-| revert      | reverted      | reverted        | revertir                      | We reverted the configuration to the previous state.                  |
-| vary        | varied        | varied          | variar                        | Performance may vary across environments.                             |
-| wipe        | wiped         | wiped           | limpiar, borrar               | Wipe the desk after the meeting.                                      |
+| polish      | polished     | polished        | pulir                         | I polished the documentation before publishing.                       |
+| water       | watered      | watered         | regar                         | I watered the plants in the office.                                   |
+| organize    | organized    | organized       | organizar                     | She organized the invoices for the accounting team.                   |
+| declutter   | decluttered  | decluttered     | deshacerse del desorden       | They decluttered the storage room last weekend.                       |
+| replace     | replaced     | replaced        | reemplazar, cambiar           | We replaced the faulty light bulbs in the server room.                |
+| retreat     | retreated    | retreated       | retirarse, alejarse           | The team retreated from the risky change.                             |
+| regress     | regressed    | regressed       | retroceder (desarrollo)       | The system regressed after the last patch.                            |
+| revert      | reverted     | reverted        | revertir                      | We reverted the configuration to the previous state.                  |
+| vary        | varied       | varied          | variar                        | Performance may vary across environments.                             |
+| wipe        | wiped        | wiped           | limpiar, borrar               | Wipe the desk after the meeting.                                      |
