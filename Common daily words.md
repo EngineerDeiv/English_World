@@ -6,6 +6,8 @@
 | I didn’t have that in my repertoire/<br>That wasn’t on my rad | no tenia eso en mi repertorio |     |     |
 | Please stay on this cell/<br>Let’s not jump to another col    | quedate quieto aqui           |     |     |
 | Hang tight right there                                        | stay right where you are      |     |     |
+| take advantage of                                            | aprovechar                    |     |     |
+| leverage resources                                           | aprovechar recursos            |     |     |
 |                                                               |                               |     |     |
 
 | Word                                                                                                                                                                                           | BATCH WORK |

@@ -20,4 +20,13 @@
 | Stranded         |                                                               | Adjective               |
 | Spooked          |                                                               | Adjective               |
 | fraught          |                                                               | Adjective               |
+| tiny             | pequeño, diminuto                                            | adjective               |
+| harness the resources | aprovechar / poner en marcha los recursos              | phrase                  |
+| Wiggle your big toe | Mueve el dedo gordo del pie                               | phrase                  |
+| should be advice   | debería ser un consejo                                      | phrase                  |
+| tiny             | pequeño, diminuto                                            | adjective               |
+| harness the resources | aprovechar / poner en marcha los recursos              | phrase                  |
+| leverage resources   | aprovechar recursos                                     | phrase                  |
+| should be advice     | debería ser una recomendación                          | phrase                  |
+| wiggle your big toe | mueve el dedo gordo del pie                              | phrase                  |
 

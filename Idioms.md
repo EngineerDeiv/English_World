@@ -9,6 +9,8 @@
 | get off scot-free     | Escape punishment or consequences                 | salir libre o absuelto                             | The company got off scot-free despite the data breach.        |
 | get the ball rolling  | Start a process                                   | poner algo en marcha                               | Let's get the ball rolling on the incident response.          |
 | hit a roadblock       | Encounter a problem that stops progress           | encontrarse con un obstáculo                       | We hit a roadblock while debugging the API.                   |
+| I got tongue-tied     | I became unable to speak clearly because I was nervous | me trabé al hablar | I got tongue-tied during the client call. |
+| I stumbled over my words | I hesitated and mispronounced a phrase while speaking | me tropecé con mis palabras | I stumbled over my words when answering the question. |
 | in the loop           | Kept informed about progress                      | mantenerse informado                               | Please keep the client in the loop during the investigation.  |
 | raise the bar         | Increase standards                                | elevar el nivel, subir el estándar                 | This automation will raise the bar for our operations.        |
 | ride off the page     | Cause someone to lose the thread or focus         | sacar a alguien de la página / perder el hilo     | The long aside rode us off the page during the demo.         |

@@ -7,6 +7,7 @@
 | tengo una gripa horrible, anoche no sali arropado y pesque un resfriado. | I’m sick as hell. I went out last night without bundling up and caught a nasty cold. |
 | aprender cómo funciona algo                                              | learn the ropes                                                                      |
 | aprovechar                                                               | leverage                                                                             |
+| aprovechar recursos                                                      | leverage resources                                                                   |
 | aviso previo                                                             | heads up                                                                             |
 | cambio radical                                                           | game changer                                                                         |
 | contáctame                                                               | ping me                                                                              |
@@ -37,3 +38,9 @@
 | tiempo estimado de llegada                                               | ETA                                                                                  |
 | no es gran cosa                                                          | no big deal                                                                          |
 | fue culpa mía                                                            | my bad                                                                               |
+| I am on target                                                           | I am on target                                                                      |
+| “Signing in” or “logging in”                                             | means you’re available                                                              |
+| “logging out” or “signing off”                                           | means you’re done and not available                                                |
+| signing in / logging in                                                  | means you’re available                                                               |
+| logging out / signing off                                               | means you’re done and not available                                                 |
+| I am on target                                                           | estoy dentro del objetivo / cumpliendo el plan                                      |

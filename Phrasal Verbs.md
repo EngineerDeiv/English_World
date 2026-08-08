@@ -49,6 +49,7 @@
 | wrap up         | Finish something                   | finalizar, cerrar                  | Let's wrap up the incident review meeting.                      |
 | work out        | Solve a problem                    | resolver, solucionar               | We worked out a solution for the configuration issue.           |
 | hang up         | colgo la llamada                   |                                    |                                                                 |
+| pop up          | aparecer, surgir                   | aparecer, surgir                   | A new error popped up in the logs.                              |
 | wipe up         |                                    |                                    |                                                                 |
 |                 |                                    |                                    |                                                                 |
  
