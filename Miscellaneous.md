@@ -1,4 +1,4 @@
-
+	
 | Term             | Meaning (Spanish)                                             | Notes                   |
 | ---------------- | ------------------------------------------------------------- | ----------------------- |
 | Juicy loan       | Préstamo jugoso (coloquial, préstamo con términos atractivos) | Financial phrase        |
@@ -21,12 +21,16 @@
 | Spooked          |                                                               | Adjective               |
 | fraught          |                                                               | Adjective               |
 | tiny             | pequeño, diminuto                                            | adjective               |
-| harness the resources | aprovechar / poner en marcha los recursos              | phrase                  |
 | Wiggle your big toe | Mueve el dedo gordo del pie                               | phrase                  |
 | should be advice   | debería ser un consejo                                      | phrase                  |
-| tiny             | pequeño, diminuto                                            | adjective               |
-| harness the resources | aprovechar / poner en marcha los recursos              | phrase                  |
-| leverage resources   | aprovechar recursos                                     | phrase                  |
-| should be advice     | debería ser una recomendación                          | phrase                  |
 | wiggle your big toe | mueve el dedo gordo del pie                              | phrase                  |
+| he made a gang | formó una pandilla | colloquial expression |
+| so pointless | tan inútil | phrase |
+| something so pointless that nobody even bothered to react. | algo tan inútil que nadie se molestó en reaccionar. | phrase |
+| so useless | tan inútil | phrase |
+| degloved him | lo deshizo | expression/verb |
+| my reveal | mi revelación | expression |
+| stage | escenario / etapa | noun |
+| get naked | desnudarse | phrase |
+| don't slap at me | no me des un bofetón / no me golpees | phrase |
 
