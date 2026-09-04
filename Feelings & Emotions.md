@@ -6,5 +6,5 @@
 | that you're smothering me | que me estás asfixiando / sofocando            |
 | holding too tightly       | aferrándote demasiado fuerte / sujetando mucho |
 | hold on me                | me atrapo / me cautivo                         |
-| awful                     | horrible / terrible                             |
-| awful                     | horrible / terrible                             |
+| awful                     | horrible / terrible                            |
+| awful                     | horrible / terrible                            |
