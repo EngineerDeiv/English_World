@@ -38,9 +38,9 @@
 | tiempo estimado de llegada                                               | ETA                                                                                  |
 | no es gran cosa                                                          | no big deal                                                                          |
 | fue culpa mía                                                            | my bad                                                                               |
-| I am on target                                                           | I am on target                                                                      |
-| “Signing in” or “logging in”                                             | means you’re available                                                              |
-| “logging out” or “signing off”                                           | means you’re done and not available                                                |
+| I am on target                                                           | I am on target                                                                       |
+| “Signing in” or “logging in”                                             | means you’re available                                                               |
+| “logging out” or “signing off”                                           | means you’re done and not available                                                  |
 | signing in / logging in                                                  | means you’re available                                                               |
-| logging out / signing off                                               | means you’re done and not available                                                 |
-| I am on target                                                           | estoy dentro del objetivo / cumpliendo el plan                                      |
+| logging out / signing off                                                | means you’re done and not available                                                  |
+| I am on target                                                           | estoy dentro del objetivo / cumpliendo el plan                                       |
