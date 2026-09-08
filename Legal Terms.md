@@ -1,3 +1,4 @@
+
 | Term                 | Meaning (Spanish)                    | Example |
 | -------------------- | ------------------------------------ | ------- |
 | affidavit            | declaración jurada                   |         |

@@ -7,6 +7,7 @@
 | tengo una gripa horrible, anoche no sali arropado y pesque un resfriado. | I’m sick as hell. I went out last night without bundling up and caught a nasty cold. |
 | aprender cómo funciona algo                                              | learn the ropes                                                                      |
 | aprovechar                                                               | leverage                                                                             |
+| aprovechar recursos                                                      | leverage resources                                                                   |
 | aviso previo                                                             | heads up                                                                             |
 | cambio radical                                                           | game changer                                                                         |
 | contáctame                                                               | ping me                                                                              |
@@ -23,17 +24,23 @@
 | tarea fácil de obtener                                                   | low-hanging fruit                                                                    |
 | ponerse en contacto                                                      | touch base                                                                           |
 | lo antes posible                                                         | ASAP                                                                                 |
-| para ser honesto                                                         | TBH                                                                                 |
-| para tu información                                                      | FYI                                                                                 |
-| en mi opinión                                                            | IMO                                                                                 |
-| en mi humilde opinión                                                    | IMHO                                                                                |
-| si recuerdo correctamente                                                | IIRC                                                                                |
-| también conocido como                                                    | AKA                                                                                 |
-| por anunciar                                                             | TBA                                                                                 |
-| por definir                                                              | TBD                                                                                 |
-| fuera de la oficina                                                      | OOO                                                                                 |
-| fin del día                                                              | EOD                                                                                 |
-| cierre de negocio                                                        | COB                                                                                 |
-| tiempo estimado de llegada                                               | ETA                                                                                 |
-| no es gran cosa                                                          | no big deal                                                                         |
-| fue culpa mía                                                            | my bad                                                                              |
+| para ser honesto                                                         | TBH                                                                                  |
+| para tu información                                                      | FYI                                                                                  |
+| en mi opinión                                                            | IMO                                                                                  |
+| en mi humilde opinión                                                    | IMHO                                                                                 |
+| si recuerdo correctamente                                                | IIRC                                                                                 |
+| también conocido como                                                    | AKA                                                                                  |
+| por anunciar                                                             | TBA                                                                                  |
+| por definir                                                              | TBD                                                                                  |
+| fuera de la oficina                                                      | OOO                                                                                  |
+| fin del día                                                              | EOD                                                                                  |
+| cierre de negocio                                                        | COB                                                                                  |
+| tiempo estimado de llegada                                               | ETA                                                                                  |
+| no es gran cosa                                                          | no big deal                                                                          |
+| fue culpa mía                                                            | my bad                                                                               |
+| I am on target                                                           | I am on target                                                                       |
+| “Signing in” or “logging in”                                             | means you’re available                                                               |
+| “logging out” or “signing off”                                           | means you’re done and not available                                                  |
+| signing in / logging in                                                  | means you’re available                                                               |
+| logging out / signing off                                                | means you’re done and not available                                                  |
+| I am on target                                                           | estoy dentro del objetivo / cumpliendo el plan                                       |

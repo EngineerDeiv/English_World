@@ -16,3 +16,4 @@
 | How are things going?                                    |                    |
 | How have you been?                                       |                    |
 | Hey, how has your day been?<br>A busy day or a calm day? |                    |
+| Could I leave my shift early tomorrow?                    | ¿Puedo salir temprano de mi turno mañana? |
