@@ -1,4 +1,4 @@
-| Phrase/Expression         | Meaning (Spanish)                              |
+| **Phrase/Expression**     | **Meaning (Spanish)**                          |
 | ------------------------- | ---------------------------------------------- |
 | caught in the undertow    | atrapado en la corriente de arrastre           |
 | much aware                | muy consciente / muy consciente de algo        |

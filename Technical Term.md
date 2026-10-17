@@ -19,3 +19,7 @@
 | capacity utilization    | utilización de capacidad                  |         |
 | harness the resources   | aprovechar / poner en marcha los recursos |         |
 | leverage resources      | aprovechar recursos                       |         |
+|                         |                                           |         |
+|                         |                                           |         |
+|                         |                                           |         |
+|                         |                                           |         |

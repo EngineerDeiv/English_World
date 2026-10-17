@@ -1,6 +1,6 @@
 
 
-| Idiom                           | Meaning                                                                | Meaning (Spanish)                                  | Example                                                                            |
+| **Idiom**                       | **Meaning**                                                            | **Meaning (Spanish)**                              | **Example**                                                                        |
 | ------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | a quick win                     | A simple solution that produces immediate results                      | una mejora rápida de alto impacto                  | Automating the script was a quick win for the support team.                        |
 | at the end of the day           | Ultimately or in conclusion                                            | al final del día, en última instancia              | At the end of the day, customer satisfaction is the priority.                      |
